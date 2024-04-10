@@ -1,0 +1,3 @@
+app/components/auth/auth.controller.js
+app/components/dish/dish.controller.js
+app/utils/validator/customValidations.js
